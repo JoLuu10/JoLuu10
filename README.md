@@ -1,29 +1,82 @@
-# 👋 Hola, soy José Luis
+# 👋 Hola, soy José Luis Guijo
 
-💻 Frontend Developer especializado en Angular.
+💻 Desarrollador Web (Frontend & Backend) con formación en desarrollo de aplicaciones web y animación 2D/3D.
 
-🚀 Proyectos destacados:
-- 🎵 Music Player App
-- ⚔️ Angular App (personajes + armas)
+🎨 Me especializo en combinar **diseño visual + desarrollo**, creando interfaces atractivas y funcionales. Me gusta participar en todo el proceso: desde la idea hasta la implementación.
 
-🛠️ Tecnologías:
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+- 🎮 Formación en Animación 2D/3D y desarrollo de videojuegos
+- 🧠 Perfil creativo + técnico (diferencial real)
+- 📍 Sevilla, España
+
+---
+
+## 🛠️ Tecnologías
+
+**Frontend**
 - HTML, CSS, JavaScript
-- Angular
+- Angular, React
+- Bootstrap
 
-📫 Contacto:
-- LinkedIn: https://www.linkedin.com/in/jose-luis-guijo-calero-677b67329/
+**Backend**
+- PHP, Java
 
-<!--
-**JoLuu10/JoLuu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Otros lenguajes**
+- C#, C++
 
-Here are some ideas to get you started:
+**Herramientas**
+- Git & GitHub
+- Docker
+- Figma
+- Visual Studio / Eclipse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Diseño y multimedia**
+- Adobe Photoshop
+- Adobe Premiere
+- After Effects
+- Blender
+- Unity
+
+---
+
+## 💼 Experiencia
+
+🔹 **Bridder Lab (Prácticas)**
+- Animaciones para streamers
+- Diseño visual y anuncios
+
+🔹 **E-commerce**
+- Desarrollo de páginas de producto
+- Creación de contenido publicitario
+
+🔹 **Teleoperador (FYV / Zelenza)**
+- Captación de clientes (habilidades comunicativas)
+
+---
+
+## 🚀 Proyectos destacados
+
+- 🎵 Music Player App (API Spotify)
+- ⚔️ Aplicación Angular (gestión de personajes y armas)
+- 🧮 Calculadora Web
+
+---
+
+## 📈 Objetivo
+
+Actualmente busco mi primera oportunidad como desarrollador, donde pueda aportar tanto en la parte visual como en la técnica.
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-luis-guijo-calero-677b67329/
+- 📧 Email: guijocaleroj@gmail.com
+
+---
+
+⭐ Siempre aprendiendo y mejorando cada día.

@@ -42,9 +42,9 @@ Durante mis prácticas y formación he podido tocar varias cosas:
 
 Aquí en GitHub estoy subiendo proyectos que voy haciendo mientras aprendo:
 
-- 🎵 Un reproductor de música usando API de Spotify  
+- 🎵 Un reproductor de música funcional  
 - ⚔️ Una aplicación en Angular (personajes, armas, etc.)  
-- 🧮 Una calculadora web  
+- 🧮 Una calculadora web real
 
 Mi idea es ir mejorándolos poco a poco y añadir nuevos proyectos más completos.
 

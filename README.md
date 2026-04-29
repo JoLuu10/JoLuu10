@@ -1,4 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy José Luis
+
+💻 Frontend Developer especializado en Angular.
+
+🚀 Proyectos destacados:
+- 🎵 Music Player App
+- ⚔️ Angular App (personajes + armas)
+
+🛠️ Tecnologías:
+- HTML, CSS, JavaScript
+- Angular
+
+📫 Contacto:
+- LinkedIn: https://www.linkedin.com/in/jose-luis-guijo-calero-677b67329/
 
 <!--
 **JoLuu10/JoLuu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

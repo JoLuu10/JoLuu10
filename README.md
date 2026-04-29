@@ -1,82 +1,63 @@
-# 👋 Hola, soy José Luis Guijo
+# 👋 Hola, soy José Luis
 
-💻 Desarrollador Web (Frontend & Backend) con formación en desarrollo de aplicaciones web y animación 2D/3D.
+Soy desarrollador web con formación en Desarrollo de Aplicaciones Web y también en animación 2D/3D. Me gusta mucho todo lo que tenga que ver con crear cosas visuales, pero también disfruto la parte lógica del desarrollo, así que intento combinar ambas cosas en mis proyectos.
 
-🎨 Me especializo en combinar **diseño visual + desarrollo**, creando interfaces atractivas y funcionales. Me gusta participar en todo el proceso: desde la idea hasta la implementación.
-
----
-
-## 🚀 Sobre mí
-
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
-- 🎮 Formación en Animación 2D/3D y desarrollo de videojuegos
-- 🧠 Perfil creativo + técnico (diferencial real)
-- 📍 Sevilla, España
+Ahora mismo estoy centrado en seguir aprendiendo y construyendo proyectos propios para mejorar tanto a nivel técnico como en diseño.
 
 ---
 
-## 🛠️ Tecnologías
+## 💻 Tecnologías con las que trabajo
 
-**Frontend**
-- HTML, CSS, JavaScript
-- Angular, React
+En frontend:
+- HTML, CSS y JavaScript
+- Angular y React
 - Bootstrap
 
-**Backend**
-- PHP, Java
+En backend:
+- PHP y Java
 
-**Otros lenguajes**
+También he trabajado con:
 - C#, C++
-
-**Herramientas**
-- Git & GitHub
 - Docker
+- Git y GitHub
+
+Y en la parte más creativa:
 - Figma
-- Visual Studio / Eclipse
-
-**Diseño y multimedia**
-- Adobe Photoshop
-- Adobe Premiere
-- After Effects
-- Blender
-- Unity
+- Photoshop, Premiere y After Effects
+- Blender y Unity
 
 ---
 
-## 💼 Experiencia
+## 🚀 Sobre lo que he hecho
 
-🔹 **Bridder Lab (Prácticas)**
-- Animaciones para streamers
-- Diseño visual y anuncios
+Durante mis prácticas y formación he podido tocar varias cosas:
 
-🔹 **E-commerce**
-- Desarrollo de páginas de producto
-- Creación de contenido publicitario
-
-🔹 **Teleoperador (FYV / Zelenza)**
-- Captación de clientes (habilidades comunicativas)
+- En **Bridder Lab**, trabajé creando animaciones para streamers y contenido visual, lo que me ayudó a mejorar bastante en diseño y creatividad.
+- En un entorno de **e-commerce**, participé en la creación de páginas de productos y en la parte de contenido (anuncios y vídeos).
+- También he trabajado como teleoperador, donde desarrollé habilidades de comunicación y trato con clientes que creo que también aportan en el trabajo en equipo.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧩 Proyectos
 
-- 🎵 Music Player App (API Spotify)
-- ⚔️ Aplicación Angular (gestión de personajes y armas)
-- 🧮 Calculadora Web
+Aquí en GitHub estoy subiendo proyectos que voy haciendo mientras aprendo:
+
+- 🎵 Un reproductor de música usando API de Spotify  
+- ⚔️ Una aplicación en Angular (personajes, armas, etc.)  
+- 🧮 Una calculadora web  
+
+Mi idea es ir mejorándolos poco a poco y añadir nuevos proyectos más completos.
 
 ---
 
-## 📈 Objetivo
+## 🎯 Objetivo
 
-Actualmente busco mi primera oportunidad como desarrollador, donde pueda aportar tanto en la parte visual como en la técnica.
+Ahora mismo estoy buscando mi primera oportunidad como desarrollador.  
+Me interesa especialmente el frontend, pero no me cierro a aprender más backend y crecer como desarrollador completo.
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jose-luis-guijo-calero-677b67329/
-- 📧 Email: guijocaleroj@gmail.com
-
----
-
-⭐ Siempre aprendiendo y mejorando cada día.
+- LinkedIn: https://www.linkedin.com/in/jose-luis-guijo-calero-677b67329/
+- Email: guijocaleroj@gmail.com
